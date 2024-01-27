@@ -4,4 +4,4 @@ THE BODY OF THE WEBPAGE WILL FEAUTURE THE PRESENT MENU THAT HAS BEEN CHOOSEN WHI
 
 THERE WILL BE A BOTTOM MENU WITH CONTACT INFO AND SOME RANDOM INFORMATION
 
-![Alt Text](https://images.pexels.com/photos/14024358/pexels-photo-14024358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Alt Text](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
